@@ -1,22 +1,22 @@
 # Git Lesson
 
-Git is another fundamental tool in a programmer's tool belt. It allows users to
-easily save their work and look back (revert) if they every make a mistake. It
-also allows users to easily experiment (branch) with new code so it doesn't
-interfere or break existing functionality. Finally, it provides a means by which
-programmers can collaborate, allowing projects to move quickly and integrate the
-skills of all.
+Git is another critical tool in a programmer's tool belt. It allows users to
+easily save their work (commit) and look back (revert) if they every make a
+mistake. It also allows users to easily experiment (branch) with new code so
+they don't interfere with or break existing functionality. Finally, it provides
+a means by which programmers can collaborate, allowing projects to move quickly
+and integrate the skills of all.
 
 This lesson involves several rounds of research, reflection, and application.
 
 ## Research Part 1:
 
-Take the Microsoft Learn "intro to git" course. The course is available at
-https://learn.microsoft.com/en-us/training/modules/intro-to-git/ . You will need
-to create a Microsoft account to access the tutorial (should be free), but you
-_should not_ need to create an Azure sandbox. Instead, you can do all of the
-commands on your own personal laptop. Whenever you see the phrase "Cloud Shell",
-simply use your local version of shell.
+Complete the Microsoft Learn "intro to git" course. The course is available at
+https://learn.microsoft.com/en-us/training/modules/intro-to-git/ . You _will_
+need to create a Microsoft account to access the tutorial (should be free),
+but you _should not_ need to create an Azure sandbox. Instead, you can do all
+of the commands on your own personal laptop. Whenever you see the phrase "Cloud
+Shell", simply use your local version of shell.
 
 > Make sure to watch the `Introduction to Git Recap` video.
 
@@ -46,7 +46,7 @@ simply use your local version of shell.
 
    ```
 
-## Research Part 1:
+## Research Part 2:
 
 Now, it's time to put your skills into action in a more complex way. Complete
 https://learn.microsoft.com/en-us/training/modules/create-git-project/ . At the
@@ -93,10 +93,10 @@ end, you should have a simple git repository with a few commits in it.
 ### TIL Repository
 
 To demonstrate your understanding of git, you are now going to move your TIL
-entries from your TIL Google Doc to a new repository. To do this, you will create
+entries from your TIL Google Doc to a git repository. To do this, you will create
 a repository on UCLS's GitLab server and then `git push` your content up.
 
-To accomplish this, do the following steps:
+To accomplish this, complete the following steps:
 
 1. Log into `https://gitlab.ucls.uchicago.edu` using your Google credentials
 2. Create a `New project` (aka repository) called "Today I Learned"
