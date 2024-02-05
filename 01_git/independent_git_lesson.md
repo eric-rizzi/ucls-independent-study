@@ -12,9 +12,9 @@ This lesson involves several rounds of research, reflection, and application.
 ## Research Part 1:
 
 Complete the Microsoft Learn "intro to git" course. The course is available at
-https://learn.microsoft.com/en-us/training/modules/intro-to-git/ . You _will_
+https://learn.microsoft.com/en-us/training/modules/intro-to-git/ . You **will**
 need to create a Microsoft account to access the tutorial (should be free),
-but you _should not_ need to create an Azure sandbox. Instead, you can do all
+but you **should not** need to create an Azure sandbox. Instead, you can do all
 of the commands on your own personal laptop. Whenever you see the phrase "Cloud
 Shell", simply use your local version of shell.
 
@@ -107,7 +107,7 @@ To accomplish this, complete the following steps:
    - Read the `README.md` file carefully, it has a **lot of useful information**
 4. Create one file for every entry in your TIL Google Doc and copy in the content
    - Make sure to name the files something that is easy to understand
-   - The resulting folder structure should be something like:
+   - The resulting folder structure **should be something like**:
    ```
    - TIL Repository
       - README.md
@@ -128,4 +128,5 @@ The two lessons that you've completed so far (plus some future ones) are stored
 in a repository on GitLab. This allows you to "collaborate". Therefore, I would
 like you to clone the repository (gitlab.ucls.uchicago.edu/erizzi/intro-cs-extension)
 and make at least one change to either this lesson or the shell lesson with a
-new or improved question or some new content. Once you are done, push your changes.
+new or improved question or some new content. Once you are done, create a merge
+request so I can integrate your changes into the project.
