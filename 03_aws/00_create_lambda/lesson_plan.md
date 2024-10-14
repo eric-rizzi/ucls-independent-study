@@ -7,11 +7,15 @@
 - Create account for student
     - Log into AWS account `598791268315` as administrator
     - Go to IAM service
-    - Create new user that is their UCLS Google email
+        - Go to `Users` panel
+        - Create a new user named `username@ucls.uchicago.edu`
+        - Make sure they are forced to create their own password on login
     - Give access to Students Group:
         - Lambda - Full, S3 - Full, Cloudwatch - ReadOnly, SQS - Full
         - MFA setup
     - Send email asking them to log in
+        - Subject: AWS creds
+        - Include: username, password
 
 ### Lesson Plan
 
