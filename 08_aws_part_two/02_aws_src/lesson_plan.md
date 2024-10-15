@@ -10,7 +10,7 @@ TODO: Switch from `sample_app_src_rep` to `aws_src_repo-`
 1. Setup Src Pipeline
     1. Make a copy of `Documents/workspace/Projects/AWSInfraTXU` repo
         - `cp -r AWSInfraTXU AWSSrcStudentName`
-    2. Checkout `f812b68` (ish)
+    2. Checkout `80ea255`
     3. Create a fresh repo at that commit
         - `rm -rf .git`
         - `git init`
