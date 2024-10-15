@@ -5,9 +5,10 @@
 ### Setup
 
 1. Setup Infra Pipeline for student in their own region
-    1. Make a copy of `Documents/workspace/Projects/AWSInfraSample` repo
-        - `cp -r AWSInfraSample AWSInfraStudentName`
-    2. Checkout `829a747`
+    1. Make a copy of `Documents/workspace/Projects/AWSInfraTXU` repo
+        - `cp -r AWSInfraTXU AWSInfraStudentName`
+    2. Checkout `903dcc8`
+        - Update `lib/utils/config.ts`
     3. Create a fresh repo at that commit
         - `rm -rf .git`
         - `git init`
@@ -20,7 +21,7 @@
     5. Bootstrap to new region
         - `cdk bootstrap aws://598791268315/ca-central-1`
     6. Create a **new** GitLab project that student will take over
-        - e.g., "AWSInfraStudentName"
+        - e.g., `AWSInfraStudentName`
         - Link project with local repo just created
         - Push project
     7. Set up CI/CD
