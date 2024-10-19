@@ -1,16 +1,18 @@
-https://github.com/holycrap872/ucls-fishy
+## Essential Questions
 
-Attached is a partially completed version of the game "Fishy". You can see what
-it's supposed to eventually look like here. This is what you should do:
+## Lesson Plan
 
-1. Download the `Fishy.zip` file attached to this email
-2. Unzip `Fishy.zip` and put the resulting `Fishy` folder into a special spot (maybe another folder like `cs_workspace` on your Desktop)
-3. Go into the `Fishy` folder and double click on `fishy.code-workspace`
-    - This should result in the program `Visual Studio Code` opening with several fishy files for you to read/edit
-4. Open the file called `README.md` and read/follow the instructions
+### Setup
 
-Assuming you accomplish all the tasks in `README.md`, you should, in the end,
-have a fully working version of Fishy. Just be aware that this is a bit harder
-than the pong game, so it might take several days to get it all working.
+- `Fishy Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8
+- A zipped version of loaded into Schoology
+    - Named `Fishy.zip`
+    - https://github.com/holycrap872/ucls-fishy
+    - README.md removed (?)
 
-As always, let me know if you have any questions and let me know if/when you finish.
+### Actual Lesson
+
+- Have student on their own work through each worksheet
+- Aske any questions they might have during class
+- Finish worksheet in ~2 class periods
