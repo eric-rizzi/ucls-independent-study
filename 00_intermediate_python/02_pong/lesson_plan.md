@@ -6,7 +6,7 @@
 
 - `VSCode Setup Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
-- `Classic Pong Worksheet` loaded into Schoology
+- `Pong Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc
 - A zipped version of loaded into Schoology
     - Named `Pong.zip`
