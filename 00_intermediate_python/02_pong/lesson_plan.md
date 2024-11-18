@@ -11,10 +11,14 @@
 - A zipped version of loaded into Schoology
     - Named `Pong.zip`
     - https://github.com/holycrap872/ucls-partial-pong
-    - README.md removed (?)
+        - `.git` removed
+        - `.gitignore` removed
+        - `.venv` removed
+        - All other weird `.*` files removed
+        - `find . -name "__pycache__" -exec rm -r {} \;`
 
 ### Actual Lesson
 
 - Have student on their own work through each worksheet
-- Aske any questions they might have during class
+- Ask any questions they might have during class
 - Finish worksheet in ~2 class periods
