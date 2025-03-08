@@ -10,7 +10,7 @@
     - https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc
 - A zipped version of loaded into Schoology
     - Named `Pong.zip`
-    - https://github.com/holycrap872/ucls-partial-pong
+    - https://github.com/eric-rizzi/ucls-partial-pong
         - `.git` removed
         - `.gitignore` removed
         - `.venv` removed

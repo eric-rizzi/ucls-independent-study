@@ -8,7 +8,7 @@
     - https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8
 - A zipped version of loaded into Schoology
     - Named `Fishy.zip`
-    - https://github.com/holycrap872/ucls-fishy
+    - https://github.com/eric-rizzi/ucls-fishy
         - `.git` removed
         - `.gitignore` removed
         - `.venv` removed
