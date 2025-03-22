@@ -17,7 +17,7 @@ you think you know all the information.
 
 ## Reflection:
 
-1. What is the GUI equivalant of `cd`?
+1. What is the GUI equivalent of `cd`?
    ```
 
 
@@ -33,7 +33,7 @@ you think you know all the information.
 
 
    ```
-4. What is the difference between and absolute path and a relative path?
+4. What is the difference between an absolute path and a relative path?
    ```
 
 
