@@ -1,4 +1,4 @@
-# Classes To Cloud: A Computer Science Independent Study
+# CS Independent Study: Classes To Cloud
 
 This repository includes all the worksheets, setup information, and other
 resources required to guide learners from the creation of series of simple
