@@ -5,7 +5,7 @@
 ### Setup
 
 - `Fishy Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1gsYWeewpQPB9gjoGOE963jIxD110brmhtM3Qjbk9Ao8
+    - https://docs.google.com/document/d/1UHffrtwf_iBFuwcttdDIR0JHFhYR2wBvD9ceYRIt5f0
 - A zipped version of loaded into Schoology
     - Named `Fishy.zip`
     - https://github.com/eric-rizzi/ucls-fishy

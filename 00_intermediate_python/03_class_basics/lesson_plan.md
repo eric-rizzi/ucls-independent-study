@@ -4,8 +4,8 @@
 
 ### Setup
 
-- `Class Basics Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1rS0B1gvbGJEnMxNH8ZPs3ojfpMQOp3Cf3u1ARx2HDU0
+- `Object Basics Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/1P5Vr3GIpV_nHO_Ygj0K6f0hhP5aZeKb5FKnnqNnPBTA
 
 ### Actual Lesson
 
