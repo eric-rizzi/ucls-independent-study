@@ -32,7 +32,8 @@ To understand the course, there are three main sections:
 
 Overall, this course is a work in progress (dependent on individual students in
 my class showing interest in a particular area) and I am open to any/all
-suggestions.
+suggestions. A more complete writeup of what the goals of each unit are can be
+found [here](https://eric-rizzi.github.io/teaching/course_specifics/independent_study.html).
 
 ## License
 
