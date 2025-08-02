@@ -5,9 +5,9 @@
 ### Setup
 
 - `VSCode Setup Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1rIdk_vk-tgh7_RPmZKn8qJc9L8iSBRDWfoNWK-HW5TA
+    - https://docs.google.com/document/d/1xXfJWjY4bbE7S91n8sRmIKCTJsloQCjr9FDU0d89nKM
 - `Pong Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1eW4la2fCusx_mdwDf4gEzEPu_daq-ZIVavT85ASw3pc
+    - https://docs.google.com/document/d/1ZyE9ITe_CudfB-laCmynwYoFQg_34IwrydntI7mqbQE
 - A zipped version of loaded into Schoology
     - Named `Pong.zip`
     - https://github.com/eric-rizzi/ucls-partial-pong

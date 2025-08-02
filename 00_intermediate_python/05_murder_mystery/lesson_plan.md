@@ -13,7 +13,7 @@ information and then has them reflect on their experience.
 ### Setup
 
 - `Murder Mystery Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1sdd0-y73EI7VdYLAwW9pbDehiGE70M0T7hvVsgzJvRA
+    - https://docs.google.com/document/d/1jc9x7PvTu_ZVVxDXeQ1MhwXvAjFvkNsX2sdkYZNaxWo
     - Note: This is a larger, more structured version than the ML/AI murder mystery worksheet
 
 ### Time Expectations
