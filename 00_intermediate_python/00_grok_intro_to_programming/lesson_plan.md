@@ -1,3 +1,17 @@
+## Essential Questions
+
+## Lesson Plan
+
+### Setup
+
+- 
+
+### Time Expectations
+
+- A motivated student should finish this in ~150m
+
+### Actual Lesson 
+
 I signed you up for "Grok Learning" at https://groklearning.com . This is
 something that you will do when you start 9th grade, but getting started early
 will allow you to access more difficult content while other students are working

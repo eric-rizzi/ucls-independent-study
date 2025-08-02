@@ -15,18 +15,18 @@ knowledge with written reflection.
 
 ## Navigation
 
-To understand the course, there are four main sections:
+To understand the course, there are three main sections:
 
 - Basic knowledge:
     - [Python](./00_intermediate_python)
     - [Shell](./01_shell)
-    - [Git](./git)
+    - [Git](./02_git)
 - ChatBots and client-side apps
-    - [ChatBot Aid](./05_chatbot_aid)
+    - [ChatBot Aid](./04_chatbot_aid)
 - Cloud-Based Computing
-    - [Intro AWS](./06_aws_part_one)
-    - [Docker](./07_docker)
-    - [Infrastructure as Code](./08_aws_part_two)
+    - [Intro AWS](./05_aws_part_one)
+    - [Docker](./06_docker)
+    - [Infrastructure as Code](./07_aws_part_two)
 
 ## Contributions
 
